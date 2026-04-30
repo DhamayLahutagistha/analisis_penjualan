@@ -5,8 +5,6 @@ No Absen: 14
 
 Dataset: women_clothing_ecommerce_sales.csv
 
-Status: ✅ Selesai (Analisis Individu)
-
 🎯 1. Business Question
 Analisis ini dirancang untuk menjawab tantangan bisnis utama berikut:
 
