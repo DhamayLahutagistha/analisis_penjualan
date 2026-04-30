@@ -1,5 +1,7 @@
 📊 Laporan Praktikum: Analisis Performa Penjualan E-commerce
-Nama: [Isi Nama Kamu]
+Nama: Dhamay Lahutagistha Pramu Putri
+Kelas: XI RPL 1
+No Absen: 14
 
 Dataset: women_clothing_ecommerce_sales.csv
 
@@ -70,3 +72,21 @@ Library Utama: Pandas, Matplotlib, Seaborn, Scikit-Learn
 
 Laporan ini disusun sebagai bagian dari pemenuhan tugas praktikum Analisis dan Visualisasi Data.
 
+OUTPUT :
+
+--- Memulai Analisis Sesuai Modul Praktikum ---
+
+--- Menghitung RFM Analysis ---
+   order_id  Recency  Frequency  Monetary
+0         1       32          3       754
+1         2       32          2       473
+2         3       32          2       542
+3         4       32          2       542
+4         5       31          2       542
+
+========================================
+INSIGHT UNTUK LAPORAN:
+1. Puncak Penjualan: 2022-09
+2. Total Pelanggan Unik: 273
+3. Rekomendasi: Fokus pada bulan 2022-06 dengan promo.
+========================================
